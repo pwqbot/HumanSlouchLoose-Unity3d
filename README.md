@@ -134,11 +134,11 @@
 
 使用了银河的天空盒, 场景犹如漂浮在宇宙之中,
 
-<img src="http://ding-typora.oss-cn-beijing.aliyuncs.com/img/image-20210627183536095.png" alt="image-20210627183536095" style="zoom: 25%;" />
+![image](http://ding-typora.oss-cn-beijing.aliyuncs.com/img/image-20210627183536095.png)
 
 给两个圆环加上了光环效果.
 
-<img src="http://ding-typora.oss-cn-beijing.aliyuncs.com/img/image-20210627183603433.png" alt="image-20210627183603433" style="zoom:25%;" />
+![image](http://ding-typora.oss-cn-beijing.aliyuncs.com/img/image-20210627183603433.png)
 
 #### Mathematician
 
