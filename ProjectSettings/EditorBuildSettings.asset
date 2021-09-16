@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 753c3f7ddafd8ec4ca1662dfb19cea7f
+  - enabled: 1
+    path: Assets/Scenes/ChooseScene.unity
+    guid: 01e6dd702309f3f4f86643a8aa3059fe
+  - enabled: 1
+    path: Assets/Scenes/SpinCrazy.unity
+    guid: 219a86906b177814ea91eb78d509d630
+  - enabled: 1
+    path: Assets/Scenes/Mathematician.unity
+    guid: 1fa9617ae5784b5489c814e43f5a731c
+  - enabled: 1
+    path: Assets/Scenes/KinderGarden.unity
+    guid: 9322b5957b5a9c24b9cffd74157eabf1
+  m_configObjects: {}
